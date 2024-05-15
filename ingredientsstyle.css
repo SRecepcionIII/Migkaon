@@ -1,0 +1,171 @@
+body {
+    font-family: Montserrat;
+    background-color: #FAFFF6;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1, h2, h3 {
+    font-family: Montserrat;
+    color: #606C5D;
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
+
+.site-header{
+    background-color: #DAE2B6;
+    padding: 10px;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+}
+
+.logo {
+    max-width: 50px;
+}
+
+.search-bar input {
+    width: 90%;
+    padding: 20px;
+    margin: 60px;
+    margin-top: 20px;
+    border-radius: 25px;
+    background-color: #DAE2B6;
+    border: none;
+}
+
+input[placeholder="SELECT YOUR INGREDIENTS"] {
+    font-family: Montserrat;
+    color: #606C5D;
+    padding-left: 2%;
+    font-size: large;
+    font-weight: bold;
+ }
+
+.selected-image {
+    height: 50px; 
+    width: 50px;
+    position: absolute;
+    right: -70px;
+    top: 0;
+}
+
+.image-row {
+    margin-top: 30px; 
+    margin-left: 80px; 
+    margin-right: 80px; 
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-row img {
+    width: 500px; 
+    height: 500px; 
+    margin-right: 40px; 
+}
+
+.image-row img:last-child {
+    margin-right: 0; 
+}
+
+.recipe-title {
+    font-family: 'Montserrat';
+    color: #606C5D;
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center; 
+    position: relative;
+}
+
+.recipe-title .title-selected {
+    width: 24px;
+    height: 35px; 
+    position: absolute;
+    top: 50%;
+    right: 40px;
+    transform: translateY(-50%);
+}
+
+.recipe-info {
+    font-family: 'Montserrat';
+    color: #606C5D;
+}
+
+.recipe-time img,
+.recipe-comments img,
+.recipe-likes img {
+    width: 20px; 
+    height: 20px;
+    margin-right: 8px;
+    margin-bottom: 8px; 
+    vertical-align: middle; 
+}
+
+.recipe-time,
+.recipe-comments,
+.recipe-likes {
+    display: inline-flex;  
+    margin-right: 20px; 
+    margin-bottom: 8px;
+}
+
+
+.recipe-time img[src="assets/time.png"],
+.recipe-comments img[src="assets/comment.png"],
+.recipe-likes img[src="assets/like.png"] {
+    margin-right: 10px; 
+}
+
+.recipe {
+    position: relative; 
+}
+
+.recipe .selected-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.super-dry-text {
+    margin-left: auto;
+    padding-left: 300px;
+}
+
+
+
+.site-footer {
+    background-color: #DAE2B6;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.migkaon {
+    max-width: 10%;
+    max-height: 70%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.socials {
+    max-width: 10%;
+    max-height: 70%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    right: 0;
+    bottom: 10;
+}
