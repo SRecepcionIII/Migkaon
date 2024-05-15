@@ -33,7 +33,8 @@ body {
     position: absolute;
     left: -50px;
     top: -40px;
-
+    cursor: pointer;
+    border-radius: 70%;
 }
 
 .cover-image {
