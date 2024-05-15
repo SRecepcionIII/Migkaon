@@ -93,6 +93,7 @@
     position: absolute;
     right: -70px;
     top: 0;
+    cursor: pointer;
 }
 
 .image-row {
