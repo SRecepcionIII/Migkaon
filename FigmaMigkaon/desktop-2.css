@@ -1,0 +1,452 @@
+.migkaon-1-icon1 {
+  width: 61px;
+  height: 60px;
+  position: relative;
+  object-fit: contain;
+}
+.fixed-header-container,
+.fixed-header1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.fixed-header1 {
+  background-color: var(--nav-color);
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-668xl);
+}
+.fixed-header-container {
+  flex-direction: row;
+  padding: 0 0 22px;
+}
+.kung-pao-chicken {
+  height: 336px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.kung-pao-chicken-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.kung-pao-chicken1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.kung-pao-chicken-container {
+  width: 1308px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ingredients {
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+  min-width: 108px;
+}
+.recipe-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.blank-line,
+.for-roasting-the {
+  font-family: var(--font-montserrat);
+}
+.for-roasting-the-peanuts {
+  font-size: var(--font-size-mini);
+}
+.teaspoon-neutral-oil- {
+  font-weight: 500;
+}
+.for-roasting-the-peanuts-1 {
+  margin: 0;
+}
+.blank-line1,
+.for-the-shrimp1,
+.span {
+  font-family: var(--font-montserrat);
+}
+.for-the-shrimp {
+  font-size: var(--font-size-mini);
+}
+.pound-peeled-and-deveined {
+  font-weight: 500;
+}
+.for-the-shrimp-1-pound-pee {
+  margin: 0;
+}
+.for-the-sauce1,
+.span1 {
+  font-family: var(--font-montserrat);
+}
+.for-the-sauce {
+  font-size: var(--font-size-mini);
+}
+.blank-line2 {
+  font-family: var(--font-montserrat);
+}
+.tablespoons-water-1-tablesp {
+  font-weight: 500;
+}
+.for-the-sauce-3-tablespoon {
+  margin: 0;
+}
+.blank-line3 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.for-the-rest-of-the-dish {
+  margin: 0;
+}
+.span2 {
+  font-family: var(--font-montserrat);
+}
+.tablespoons-neutral-oil1 {
+  font-weight: 500;
+}
+.tablespoons-neutral-oil {
+  margin: 0;
+}
+.cloves-garlic-smashed-and-sli1 {
+  font-weight: 500;
+}
+.cloves-garlic-smashed-and-sli {
+  margin: 0;
+}
+.tablespoon-ginger-minced1 {
+  font-weight: 500;
+}
+.tablespoon-ginger-minced {
+  margin: 0;
+}
+.dried-red-chilies-de-seeded {
+  font-weight: 500;
+}
+.dried-red-chilies-de-seeded-a {
+  margin: 0;
+}
+.scallions-white-parts-only {
+  font-weight: 500;
+}
+.scallions-white-parts-only-c {
+  margin: 0;
+}
+.for-roasting-the-container {
+  align-self: stretch;
+  height: 494px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xs);
+}
+.frame-wrapper7,
+.recipe-content-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-content-parent {
+  align-self: stretch;
+  gap: var(--gap-6xs);
+}
+.frame-wrapper7 {
+  width: 390px;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 390px;
+  max-width: 100%;
+}
+.directions {
+  width: 132px;
+  position: relative;
+  line-height: 23px;
+  display: inline-block;
+}
+.blank-line4,
+.roast-the-peanuts {
+  font-size: var(--font-size-mini);
+  font-family: var(--font-montserrat);
+}
+.blank-line4 {
+  font-size: var(--font-size-xl);
+}
+.heat-1-teaspoon {
+  font-weight: 500;
+}
+.roast-the-peanuts-heat-1-t {
+  margin: 0;
+}
+.blank-line5 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.prepare-the-shrimp1 {
+  font-family: var(--font-montserrat);
+}
+.prepare-the-shrimp {
+  font-size: var(--font-size-mini);
+}
+.blank-line6 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-montserrat);
+}
+.butterfly-each-shrimp {
+  font-weight: 500;
+}
+.prepare-the-shrimp-butterf {
+  margin: 0;
+}
+.blank-line7 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.prepare-the-sauce {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.assemble-the-dish,
+.heat-the-wok-over-high-heat-u,
+.in-a-medium-bowl-make-the-sau,
+.increase-the-heat-to-high-and,
+.reduce-the-heat-to-low-add-th {
+  margin: 0;
+}
+.roast-the-peanuts-container {
+  height: 402px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xs);
+}
+.directions-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+  min-width: 602px;
+  max-width: 100%;
+}
+.frame-parent30 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 28px;
+  font-size: var(--font-size-mini);
+}
+.desktop-2-inner,
+.frame-parent29,
+.frame-parent30 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent29 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.desktop-2-inner {
+  width: 1404px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 30px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--nav-title);
+  font-family: var(--font-montserrat);
+}
+.footer1,
+.union-icon1 {
+  position: relative;
+  max-width: 100%;
+}
+.footer1 {
+  height: 72px;
+  width: 1440px;
+  background-color: var(--nav-color);
+  display: none;
+  z-index: 0;
+}
+.union-icon1 {
+  align-self: stretch;
+  height: 33px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.union-container {
+  width: 70.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.migkaon1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.icbaseline-facebook-icon1,
+.mdiinstagram-icon1 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 36px;
+  z-index: 1;
+}
+.icbaseline-facebook-group {
+  width: 104px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.mdigmail-icon1 {
+  height: 36px;
+  width: 36px;
+  position: absolute;
+  margin: 0 !important;
+  right: 38.8px;
+  bottom: 17px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.fixed-footer-wrapper,
+.fixed-footer1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.fixed-footer1 {
+  flex: 1;
+  background-color: var(--nav-color);
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: var(--padding-lgi) var(--padding-88xl) var(--padding-base)
+    var(--padding-10xl-2);
+  position: relative;
+  gap: var(--gap-xl);
+}
+.fixed-footer-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 0;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--nav-title);
+  font-family: var(--font-montserrat);
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .frame-wrapper7 {
+    flex: 1;
+  }
+  .frame-parent30 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .kung-pao-chicken1 {
+    line-height: 36px;
+  }
+  .kung-pao-chicken1,
+  .migkaon1 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .fixed-header1 {
+    padding-left: var(--padding-324xl);
+    padding-right: var(--padding-324xl);
+    box-sizing: border-box;
+  }
+  .directions-parent,
+  .frame-wrapper7 {
+    min-width: 100%;
+  }
+  .fixed-footer1 {
+    padding-right: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fixed-header1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .kung-pao-chicken1 {
+    font-size: var(--font-size-lg);
+    line-height: 27px;
+  }
+  .roast-the-peanuts-container {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .migkaon1 {
+    font-size: var(--font-size-lg);
+  }
+  .fixed-footer1 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
