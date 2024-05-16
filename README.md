@@ -1,2 +1,2 @@
 # Migkaon
-chat Wakowako kung nabasa nindo ni
+Streamlined Culinary Tool for Modern Cook
